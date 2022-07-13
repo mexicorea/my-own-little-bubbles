@@ -23,4 +23,5 @@ tags: ci cd devsecops automation
 - 개발자의 변경 사항을 리포지토리에서 고객이 사용 가능한 프로덕션 환경까지 자동으로 릴리스하는 것
 - 애플리케이션 제공 속도를 저해하는 수동 프로세스로 인한 운영팀의 프로세스 과부하 문제를 해결
 
-> ref. https://www.redhat.com/ko/topics/devops/what-is-ci-cd
+> ref. 
+> - https://www.redhat.com/ko/topics/devops/what-is-ci-cd

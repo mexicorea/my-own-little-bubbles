@@ -34,4 +34,4 @@ tags: sla service level agreement
   - 시스템 자원 및 인원에 대한 적절한 통제 및 평가
 
 > ref.
-> https://itwiki.kr/w/SLA
+> - https://itwiki.kr/w/SLA
